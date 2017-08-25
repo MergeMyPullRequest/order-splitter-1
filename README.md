@@ -1,5 +1,7 @@
 # gulp tasks
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MergeMyPullRequest/order-splitter-1.svg)](https://greenkeeper.io/)
+
 | Task              | Description                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------------------- |
 | `gulp`            | Builds to `dist/`.                                                                                       |
